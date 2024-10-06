@@ -3791,12 +3791,10 @@
         {
             "name": "\"><script>alert(1)</script>",
             "pbrMetallicRoughness": {
-                  "baseColorTexture": {
+                "baseColorTexture": {
                     "index": 0,
                     "uri": "data:image/jpeg;base64,<img src=x onerror=alert(1)>"
-              }
-            },
-            "pbrMetallicRoughness": {
+                },
                 "baseColorFactor": [
                     0.8500000238418579,
                     0.8500000238418579,
