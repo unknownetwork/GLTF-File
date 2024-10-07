@@ -227,7 +227,7 @@
   ],
   "images": [
     {
-      "uri": "\"/><img src=x onerror=alert('XSS')>"
+      "uri": "test.js"
     }
   ],
   "materials": [
